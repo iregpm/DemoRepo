@@ -77,6 +77,26 @@ public class App {
 		t.print();
 		System.out.printf("perimetro: %.2f%n",t.perimetro());
 		System.out.printf("superficie: %.2f%n",t.superficie());
+		
+		
+		
+		
+		
+		
+		Hexagono hex1 = new Hexagono();
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
 
 
 	}
