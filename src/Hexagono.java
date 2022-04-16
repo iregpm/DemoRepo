@@ -1,3 +1,8 @@
+/**
+ * 
+ * @author iregp
+ *
+ */
 // Creo la clase Hexágono
 public class Hexagono extends PoligonoRegular{
 	
@@ -6,4 +11,5 @@ public class Hexagono extends PoligonoRegular{
 		this.longitudLado=lado;
 	}
 }
+
 
